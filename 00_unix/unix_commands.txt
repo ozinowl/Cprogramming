@@ -1,0 +1,19 @@
+mkdir <folder name> - make directory.
+
+ls - list. Displays the content in the directory.
+
+cd <folder name> - change directory. move to another directory
+
+code <file name>- creates a file and opens it in text editor.
+
+pwd - print woring directory.
+
+clear - clears terminal.
+
+stdio.h - standard input output function ie printf.
+
+gcc - compiel program
+./a.out command to run program.
+
+\ - escape character \n- new line
+\* - escape sequence
