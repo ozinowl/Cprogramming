@@ -1,0 +1,8 @@
+1. Check the status to see which files are modified:
+git status
+2. Stage the changes you want to commit
+git add .
+3. Commit your changes with a meaningful message:
+git commit -m "Fixed bug in word game scoring logic"
+4. Push your changes to the remote repository:
+git push origin main

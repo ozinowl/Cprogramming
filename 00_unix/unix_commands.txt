@@ -12,8 +12,24 @@ clear - clears terminal.
 
 stdio.h - standard input output function ie printf.
 
-gcc - compiel program
+gcc - compile program
+gcc <file_name (c source code)>
 ./a.out command to run program.
+
+./<executeable_file> - runs the program.
+
 
 \ - escape character \n- new line
 \* - escape sequence
+
+A simple C programs (comments)
+document programs and improve readability.
+do not cause computer to perform any action when program is run.
+\varaible data storage component
+\int speed
+\int return\main ie are reserved words and cannot be used.
+\1)lower case,_digits_digits
+\int a5;
+\5a not acceptable
+\n escape sequence
+\cd .. codepase change command
