@@ -44,14 +44,27 @@
         puts("three");
     }
 
+    void draw_line(){
+        puts("------");
+    }
+
+    void draw_intersections(){
+
+        puts("  /\\");
+        puts(" /  \\");
+        puts("/    \\");
+    }
    int main(){
         // function call
         //print_course();
         //draw_circle();
-        puts("Starting now:");
-        one_three();
-        puts("done!");
-    
+        //puts("Starting now:");
+        //one_three();
+        //puts("done!");
+        draw_circle();
+        draw_intersections();
+        draw_line();
+        draw_intersections();
 
 
 
