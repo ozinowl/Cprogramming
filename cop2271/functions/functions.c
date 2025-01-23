@@ -54,6 +54,21 @@
         puts(" /  \\");
         puts("/    \\");
     }
+
+    void draw_triangle(){
+
+        draw_intersections();
+        draw_line();
+
+    }
+
+    void draw_stickfigure(){
+        draw_circle();
+        draw_intersections();
+        draw_line();
+        draw_intersections();
+
+    }
    int main(){
         // function call
         //print_course();
@@ -61,10 +76,13 @@
         //puts("Starting now:");
         //one_three();
         //puts("done!");
-        draw_circle();
-        draw_intersections();
-        draw_line();
-        draw_intersections();
+       // draw_circle();
+        //draw_intersections();
+        //draw_line();
+        //draw_intersections();
+       // draw_triangle();
+       draw_stickfigure();
+
 
 
 
